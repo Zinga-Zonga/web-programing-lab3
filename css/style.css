@@ -110,7 +110,7 @@ h3{
 }
 
 .sc {
-    animation: full-rotate-anim 60s steps(3600, end) infinite;
+    animation: full-rotate-anim 60s steps(60, end) infinite;
 }
 
 @keyframes full-rotate-anim {
